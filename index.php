@@ -146,7 +146,7 @@
         </div>
       </div>
     </div>
-    <img alt="img" class="shaps-dots" src="assets/img/shaps-dots.png">
+   
   </section>
 
 
@@ -259,7 +259,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-9">
-          <div class="heading two">
+          <div class="heading two mb-0 pb-0">
             <h2>What We <span>Provide</span></h2>
           </div>
         </div>
@@ -267,7 +267,7 @@
           <p></p>
         </div>
       </div>
-      <div class="row mt-4">
+      <div class="row">
         <div class="col-lg-4 col-md-6">
           <div class="consulting-business-text product-padding three">
             <span>1</span>

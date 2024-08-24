@@ -2221,7 +2221,7 @@ h2 {
     gap: 32px;
 }
 .navbar-hover{
-    background-color: #ffffff26;
+    background-color: white;
     backdrop-filter: blur(10px);
 }
 .navbar-hover:hover {
